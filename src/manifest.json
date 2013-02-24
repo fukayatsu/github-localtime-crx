@@ -10,8 +10,7 @@
         "jquery-1.9.1.min.js",
         "moment.min.js",
         "script.js"
-      ],
-      "run_at": "document_end"
+      ]
     }
   ]
 }
